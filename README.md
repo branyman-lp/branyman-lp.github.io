@@ -1,3 +1,6 @@
-# branyman-lp.github.io
+# Bienvenido a la página de Cumbrecita
 
-Testing the GitHub Pages deployment with a simple Jekyll site.
+Estos son nuestros productos:
+
+- Eventos La Palma: Consulta y publicación de eventos locales en La Palma.
+- Cumbrecita Editor Eventos: Gestión de eventos y actividades para organizaciones, empresas y particulares.
