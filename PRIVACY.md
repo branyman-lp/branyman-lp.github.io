@@ -7,7 +7,7 @@ permalink: /privacy/
 
 ## 1. Información general
 
-**Titular:** [Cumbrecita]
+**Titular:** Cumbrecita
 **Correo de contacto:** [support@cumbrecita.online](mailto:support@cumbrecita.online)
 **Sitio web:** [https://www.cumbrecita.online](https://www.cumbrecita.online)
 
@@ -127,7 +127,7 @@ Sin embargo, ningún sistema es 100% seguro.
 
 ## 11. Menores de edad
 
-La app no está dirigida a menores de [edad, ej: 13 o 16 años].
+La app no está dirigida a menores de 16 años.
 
 No recopilamos datos de menores intencionadamente.
 
